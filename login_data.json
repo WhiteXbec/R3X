@@ -1,0 +1,14 @@
+{
+  "root": {
+    "password": "1",
+    "expired": "2028-12-01",
+    "timelimit": 604800,
+    "conc": 604800
+  },
+  "tes": {
+    "password": "tes",
+    "expired": "2026-1-10",
+    "timelimit": 2,
+    "conc": 1
+  }
+}
