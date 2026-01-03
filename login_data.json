@@ -10,5 +10,11 @@
     "expired": "2026-1-10",
     "timelimit": 2,
     "conc": 1
+  },
+  "steven": {
+    "password": "steven",
+    "expired": "2027-1-29",
+    "timelimit": 8,
+    "conc": 4
   }
 }
