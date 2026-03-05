@@ -8,10 +8,10 @@
       "timelimit": 86000,
       "expiry": "2099-12-31",
       "created_at": "Mar/05/2099",
-      "total_attacks": 0,
+      "total_attacks": 1,
       "is_active": true
     }
   ],
   "total_users": 1,
-  "last_updated": "Mar/05/2026"
+  "last_updated": "Mar/06/2026"
 }
