@@ -10,8 +10,20 @@
       "created_at": "Mar/05/2099",
       "total_attacks": 2,
       "is_active": true
+    },
+    {
+      "username": "kaze",
+      "password": "kaze",
+      "maxtime": 86400,
+      "api_access": "yes",
+      "timelimit": 86400,
+      "expiry": "2053-07-20",
+      "created_at": "Mar/05/2026",
+      "total_attacks": 0,
+      "is_active": true,
+      "ssh_access": true
     }
   ],
-  "total_users": 1,
+  "total_users": 2,
   "last_updated": "Mar/06/2026"
 }
