@@ -22,8 +22,20 @@
       "total_attacks": 0,
       "is_active": true,
       "ssh_access": true
+    },
+    {
+      "username": "dipey",
+      "password": "1",
+      "maxtime": 8600,
+      "api_access": "yes",
+      "timelimit": 8600,
+      "expiry": "2299-12-19",
+      "created_at": "Mar/06/2026",
+      "total_attacks": 0,
+      "is_active": true,
+      "ssh_access": true
     }
   ],
-  "total_users": 2,
+  "total_users": 3,
   "last_updated": "Mar/06/2026"
 }
