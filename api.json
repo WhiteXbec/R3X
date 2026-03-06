@@ -1,14 +1,5 @@
 [
-    {
-        "base_url": "http://159.65.133.232:2009/api/attack",
-        "api_key": "anomalyc2"
-    },
-    {
-        "base_url": "http://157.230.243.220:2009/api/attack",
-        "api_key": "anomalyc2"
-    },
-    {
-        "base_url": "http://157.230.38.249:2009/api/attack",
-        "api_key": "anomalyc2"
-    }
+    "http://159.65.133.232:2009/kudel",
+    "http://157.230.243.220:2009/kudel",
+    "http://157.230.38.249:2009/kudel"
 ]
