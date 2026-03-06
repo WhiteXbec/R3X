@@ -1,15 +1,15 @@
 {
   "root": {
-    "password": "1",
-    "expired": "2028-12-01",
+    "password": "root",
+    "expired": "2099-12-01",
     "timelimit": 604800,
     "conc": 604800
   },
-  "tes": {
-    "password": "tes",
-    "expired": "2026-1-10",
-    "timelimit": 2,
-    "conc": 1
+  "dipey": {
+    "password": "dipey",
+    "expired": "2099-1-10",
+    "timelimit": 86000,
+    "conc": 800
   },
   "steven": {
     "password": "steven",
